@@ -15,4 +15,4 @@ echo $resultado;
 
 <!-- require obriga que o arquvio exista e esteja funcionando coretamente, caso contrario ele gera um erro fatal -->
 <!-- include tenta executar mesmo com o arquivo inexistente ou com algum problema -->
-<!-- include permite que vc inclua arquivos de dominios externos -->
+<!-- include permite que vc inclua arquivos de dominios externos --> 
